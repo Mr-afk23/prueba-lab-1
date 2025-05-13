@@ -1,0 +1,100 @@
+.botones{
+    border: 1px solid #000;
+    border-radius: 18px;
+    background-color: #f0f0f0;
+    margin: 0 3px ;
+
+
+}
+
+.boton1{
+    width: 113px;
+    border: 1px solid #000;
+    border-radius: 18px;
+    background-color: #008ECC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    margin: 0 10px ;
+}
+
+.img3{
+    width: 10px;
+    height: 12px;
+}
+
+.p3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.p4{
+    width: 148px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    margin-top: 8px;
+}
+
+.img4{
+    width: 10px;
+    height: 10px;
+}
+
+.p5{
+    width: 153px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    margin-top: 8px;
+}
+
+.p6{
+    width: 148px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    margin-top: 8px;
+}
+
+.p7{
+    width: 121px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    margin-top: 8px;
+}
+
+.p8{
+    width: 148px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    margin-top: 8px;
+}
+
+.p9{
+    width: 176px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    margin-top: 8px;
+}
+
+.p10{
+    width: 195px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    margin-top: 8px;
+}
