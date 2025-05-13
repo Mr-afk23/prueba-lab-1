@@ -7,3 +7,13 @@
     display: grid;
     grid-template-columns: 1fr 1fr ;
 }
+
+.menu{
+    width: 800px;
+    height: 100px;
+  margin-top: 42px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+
+}
+
