@@ -1,5 +1,5 @@
 .caja1{
-    width: 800px;
+    width: 1300px;
     height: 42px;
     background-color: #f0f0f0;
     border: 1px solid #ccc;
@@ -9,10 +9,17 @@
 }
 
 .menu{
-    width: 800px;
+    width: 1300px;
     height: 100px;
   margin-top: 42px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr ;
 
+}
+
+.categorias{
+    width: 1300px;
+    height: 36px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 }
