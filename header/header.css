@@ -1,0 +1,23 @@
+.caja2{
+    width: 100%;
+    height: 100%;
+    background-color: #f0f0f0;
+    display: flex;
+ justify-content: space-around;
+    align-items: center;
+}
+
+.P1{
+border-right: 1px solid #ccc;
+justify-content: center;
+align-items: center;
+    display: flex;
+padding-right: 10px;
+
+
+}
+
+.p2{
+    display: flex;
+    justify-content: center;
+}
