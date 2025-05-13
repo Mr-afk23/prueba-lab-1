@@ -1,0 +1,37 @@
+.p1{
+font-size: 25px;
+gap: 10px;
+    height: 90px;
+    display: grid;
+    align-items: center;
+    display: flex;
+}
+
+.img{
+    width: 40px;
+    height: 40px;
+    margin-left: 10px;
+}
+
+.busqueda{
+    width: 300px;
+    height: 60px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.img2{
+    width: 24px;
+    height: 24px;
+    margin-left: 10px;
+}
+
+.p2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
