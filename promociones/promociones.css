@@ -1,0 +1,67 @@
+.promociones{
+    background-color: #212844;
+    border-radius: 16px;
+    position: relative;
+}
+
+.letras{
+    font-size: 20px;
+    color: #ffffff;
+    display: flex;
+
+
+}
+
+.letras1{
+    font-size: 30px;
+    color: #ffffff;
+    gap: 10px;
+}
+
+.letras2{
+    font-size: 15px;
+    color: #ffffff;
+    gap: 10px;
+}
+
+.promocion1{
+display: flex;
+justify-content: center;
+flex-direction: column;
+padding: 80px;
+gap: 15px;
+}
+
+.imag{
+width: 100px;
+height: 100px;
+position: absolute;
+left: -50px;
+}
+
+.boton{
+    display: flex;
+    width: 100px;
+    height: 10px;
+}
+.relog{
+    display: flex;
+    width: 268px;
+    height: 270px;
+}
+
+.imag1{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right:-50px;
+    }
+.promocion2{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        }
+    
+
+
+

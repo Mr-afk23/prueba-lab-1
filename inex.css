@@ -23,3 +23,14 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 }
+
+.promociones{
+    width: 1201px;
+    height: 316px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border: 1px solid #000000;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
