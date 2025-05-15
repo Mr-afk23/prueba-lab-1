@@ -34,3 +34,77 @@
     margin-left: 10px;
     margin-bottom: 10px;
 }
+
+.telefonos{
+    width: 1300px;
+    height: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+}
+
+.smarphones{
+    width: 227px;
+    height: 350px;
+    border: 1px solid #000000;
+    margin-top: 20px;
+    position: relative;
+    border-radius: 15px;
+    background-color:#EDEDED;
+    margin-left: 10px;
+    }
+
+    .separacion{
+        width: 1300px;
+        height: 320px;
+display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+
+    .smarphones1{
+        width: 227px;
+        height: 295px;;
+        border: 1px solid #000000;
+        margin-top: 20px;
+        position: relative;
+        border-radius: 15px;
+        background-color:#EDEDED;
+        margin-left: 10px;
+        }
+
+
+        .smarphones2{
+            width: 227px;
+            height: 300px;;
+            border: 1px solid #000000;
+            margin-top: 20px;
+            position: relative;
+            border-radius: 15px;
+            background-color:#EDEDED;
+            margin-left: 10px;
+            }
+    
+            .smarphones3{
+                width: 227px;
+                height: 300px;;
+                border: 1px solid #000000;
+                margin-top: 20px;
+                position: relative;
+                border-radius: 15px;
+                background-color:#EDEDED;
+                margin-left: 10px;
+                }
+
+                .smarphones4{
+                    width: 227px;
+                    height: 300px;;
+                    border: 1px solid #000000;
+                    margin-top: 20px;
+                    position: relative;
+                    border-radius: 15px;
+                    background-color:#EDEDED;
+                    margin-left: 10px;
+                    }
