@@ -1,0 +1,18 @@
+.e4{
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+    margin-top: 10px;
+    margin-right: 10px;
+    grid-column: 7/8;
+}
+
+.comida1{
+    border-radius: 16px;
+    border: 1px solid black;
+    height: 187px;
+    width: 187px;
+  background-color: #F5F5F5;
+  margin-left: 15px;
+
+}

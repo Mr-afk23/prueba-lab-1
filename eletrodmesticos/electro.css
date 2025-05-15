@@ -1,0 +1,23 @@
+.realme {
+    position: absolute;
+    display: flex;
+    margin-top: 75px;
+    margin-left: 20px;
+}
+
+.realme1 {
+    position: absolute;
+    display: flex;
+    margin-top: 250px;
+    margin-left: 150px;
+}
+
+.e3{
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+    margin-top: 10px;
+    margin-right: 10px;
+    grid-column: 5/6;
+    
+    }

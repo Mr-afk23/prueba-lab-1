@@ -109,7 +109,7 @@ display: flex;
                     margin-left: 10px;
                     }
                     .telefonos1{
-                        width: 1300px;
+                        width: 1400px;
                         height: 20px;
                         display: grid;
                         grid-template-columns: 1fr 1fr 1fr 1fr ;
@@ -121,4 +121,35 @@ display: flex;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     height: 172px;
     width: 1300px;
+}
+
+.telefonos2{
+    width: 1400px;
+    height: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
+padding: 50px;
+}    
+
+.eletrodmesticos{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 1300px;
+    height: 300px;
+}
+
+.telefonos3{
+    width: 1400px;
+    height: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+padding: 50px;
+}  
+
+.comida{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    height: 250px;
+    width: 1300px;
+    border: 1px solid black;
 }
