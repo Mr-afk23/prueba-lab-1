@@ -108,3 +108,17 @@ display: flex;
                     background-color:#EDEDED;
                     margin-left: 10px;
                     }
+                    .telefonos1{
+                        width: 1300px;
+                        height: 20px;
+                        display: grid;
+                        grid-template-columns: 1fr 1fr 1fr 1fr ;
+                    padding: 50px;
+                 }                    
+ 
+.Categorias{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    height: 172px;
+    width: 1300px;
+}

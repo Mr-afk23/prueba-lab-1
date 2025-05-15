@@ -1,0 +1,17 @@
+.cat{
+    flex-direction: row;
+    height: 172px;
+    display: flex;
+    justify-content: center;
+}
+
+.ca1{
+    position: absolute;
+}
+
+.ca2{
+    position: absolute;
+align-items: center;
+margin-top: 20px;
+}
+
