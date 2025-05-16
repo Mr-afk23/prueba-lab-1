@@ -14,5 +14,46 @@
     width: 187px;
   background-color: #F5F5F5;
   margin-left: 15px;
-
+  justify-content: center;
+  display: flex;
+  height: 150px;
+  width: 153px;
 }
+
+.comida2{
+justify-content: center;
+display: flex;
+height: 150px;
+width: 153px;
+}
+
+.comida3{
+  justify-content: center;
+  display: flex;
+  height: 150px;
+  width: 160px;
+  }
+
+  .dialy{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+  }
+
+  .letras{
+    border : 1px solid black;
+  }
+
+  .up{
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+  }
+
+  .l{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
