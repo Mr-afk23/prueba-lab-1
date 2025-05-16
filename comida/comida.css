@@ -40,10 +40,6 @@ width: 153px;
     flex-direction: row;
   }
 
-  .letras{
-    border : 1px solid black;
-  }
-
   .up{
     color: black;
     display: flex;

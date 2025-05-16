@@ -1,0 +1,58 @@
+.Mega{
+font-size: 40px;
+margin-top: 25px;
+margin-left: 120px;
+color: white;
+
+}
+
+.M{
+    font-size: 15px;
+    margin-top: 25px;
+margin-left: 120px;
+color: white;
+}
+
+.E{
+display: flex;
+flex-direction: column;
+margin-top: 25px;
+margin-left: 120px;
+}
+
+.G{
+    margin-top: 25px;
+    margin-left: 120px;
+}
+
+.ul{
+    margin-top: 10px;
+    margin-left: 85px;
+    font-size: 16px;
+}
+
+.li{
+    margin-bottom: 15px;
+    color: white;
+}
+
+.li1{
+    margin-bottom: 10px;
+    margin-top: 55px;
+    color: white;
+}
+
+.most{
+    margin-left: 65px;
+    font-size: 16px;
+    color: white;
+    margin-top: 35px;
+}
+
+.line{
+    margin-left: 70px;
+}
+
+.mask{
+height: 346px;
+}

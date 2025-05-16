@@ -151,6 +151,16 @@ padding: 50px;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     height: 250px;
     width: 1300px;
-    border: 1px solid black;
     
 }
+
+.footer{
+font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 1300px;
+    height: 500px;
+    background-color: #008ECC;
+    margin-top: 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
